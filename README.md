@@ -1,2 +1,3 @@
-# Hey-Brain
-Project on my first internship 
+# Getting Started with NLPG
+
+React implementation of NLPG.
